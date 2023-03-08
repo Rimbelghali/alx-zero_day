@@ -1,0 +1,24 @@
+void f(int n)
+{
+    int i;
+
+    for (i = 0; i < n; i++)
+        {
+	        printf("[%d]\n", i);
+		    }
+		    }
+		    O(n)
+
+O(log(n))
+
+O(2^n)
+
+O(1)
+
+O(n!)
+
+O(n^2)
+
+O(nlog(n))
+
+I don't know0;276;0c
